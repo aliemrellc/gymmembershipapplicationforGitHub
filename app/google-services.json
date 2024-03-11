@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360084105501",
+    "project_id": "spor-salonu-uygulamasi",
+    "storage_bucket": "spor-salonu-uygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360084105501:android:030b248ef4d311b4a159f4",
+        "android_client_info": {
+          "package_name": "com.example.sporsalonuuygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC603_t1YoGburddsh3uqGjmfA-KONmeEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
